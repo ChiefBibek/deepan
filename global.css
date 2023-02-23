@@ -1,0 +1,20 @@
+:root {
+  /* fonts */
+  --font-dmsans: DMSans;
+
+  /* font sizes */
+  --font-size-base: 15px;
+  --font-size-lg: 17px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 32px;
+  --font-size-4xl: 42px;
+
+  /* Colors */
+  --color-whitesmoke: #f5f5f5;
+  --color-white: #fff;
+  --color-orange: #ffac12;
+  --color-black: #000;
+  --color-gainsboro: #e4e4e4;
+  --color-darkgray: #979797;
+}
